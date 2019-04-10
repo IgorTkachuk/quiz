@@ -1,0 +1,58 @@
+{
+  "1": {
+    "brand": "Chevrolet",
+    "model": "Agile",
+    "generation": "Agile",
+    "doors": "5",
+    "power": "102 hp/6000 rpm.",
+    "fuelTankVolume": "54 l"
+  },
+  "2": {
+    "brand": "BMW",
+    "model": "X7",
+    "generation": "X7 (G07)",
+    "doors": "5",
+    "power": "400 hp/4400 rpm.",
+    "fuelTankVolume": "80 l"
+  },
+  "3": {
+    "brand": "Audi",
+    "model": "A8",
+    "generation": "A8 (D5)",
+    "doors": "4",
+    "power": "340 hp/5000-6400 rpm.",
+    "fuelTankVolume": "72 l"
+  },
+  "4": {
+    "brand": "Mercedes-Benz",
+    "model": "200",
+    "generation": "200 (W124)",
+    "doors": "4",
+    "power": "75 hp/4600 rpm.",
+    "fuelTankVolume": "70 l"
+  },
+  "5": {
+    "brand": "Volkswagen",
+    "model": "Beetle",
+    "generation": "Beetle Convertible (A5, facelift 2016)",
+    "doors": "2",
+    "power": "220 hp/4500-6200 rpm.",
+    "fuelTankVolume": "55 l"
+  },
+  "6": {
+    "brand": "Bugatti",
+    "model": "Veyron",
+    "generation": "EB Veyron 16.4 Targa",
+    "doors": "2",
+    "power": "1200 hp/6400 rpm.",
+    "fuelTankVolume": "100 l"
+  },
+  "7": {
+    "brand": "Ford",
+    "model": "Mustang",
+    "generation": "Mustang VI (facelift 2018)",
+    "doors": "2",
+    "power": "526 hp/7500 rpm.",
+    "fuelTankVolume": "61 l"
+  }
+}
